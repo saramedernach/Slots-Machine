@@ -1,2 +1,2 @@
 # Slots Machine
-Basic iOS slot machine game built using SwiftUI.
+Basic iOS slots machine game built using SwiftUI.
