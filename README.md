@@ -2,7 +2,7 @@
 Basic iOS slots machine game built using SwiftUI.
 ## Game
 
-<img src="https://github.com/saramedernach/Demo/blob/master/Hnet.com-image.gif" width="250"> <img src="https://github.com/saramedernach/Demo/blob/master/Hnet.com-image%20(1).gif" width="250">
+<img src="https://github.com/saramedernach/Demo/blob/master/SlotDemo(1).gif" width="250"> <img src="https://github.com/saramedernach/Demo/blob/master/SlotDemo(2).gif" width="250">
 
 <b>Instructions</b>
 
