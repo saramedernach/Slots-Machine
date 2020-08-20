@@ -2,7 +2,7 @@
 Basic iOS slots machine game built using SwiftUI.
 ## Demo
 
-![Slots Machine Demo](https://github.com/saramedernach/Demo/blob/master/Screen%20Shot%202020-08-19%20at%204.36.53%20PM.png)
+<img src="https://github.com/saramedernach/Demo/blob/master/Screen%20Shot%202020-08-19%20at%204.40.22%20PM.png" width="100"> <img src="https://github.com/saramedernach/Demo/blob/master/Screen%20Shot%202020-08-19%20at%204.36.53%20PM.png" width="100"> <img src="https://github.com/saramedernach/Demo/blob/master/Screen%20Shot%202020-08-19%20at%204.38.38%20PM.png" width="100">
 
 <b>Instructions</b>
 
